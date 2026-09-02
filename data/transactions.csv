@@ -1,0 +1,587 @@
+txn_id,date,merchant,category,amount,currency,method
+T100000,2026-01-01,BigBasket,groceries,900.44,INR,UPI
+T100001,2026-01-01,Swiggy,food,412.3,INR,CreditCard
+T100002,2026-01-01,Local Pharmacy,health,1148.27,INR,DebitCard
+T100003,2026-01-03,Metro Card,transport,367.15,INR,DebitCard
+T100004,2026-01-03,IndianOil,fuel,1914.82,INR,UPI
+T100005,2026-01-03,Metro Card,transport,144.75,INR,UPI
+T100006,2026-01-03,Metro Card,transport,306.65,INR,UPI
+T100007,2026-01-04,IndianOil,fuel,2270.05,INR,UPI
+T100008,2026-01-05,Metro Card,transport,352.78,INR,UPI
+T100009,2026-01-05,Amazon,shopping,1169.34,INR,UPI
+T100010,2026-01-05,Myntra,shopping,2284.99,INR,UPI
+T100011,2026-01-06,Local Pharmacy,health,180.85,INR,CreditCard
+T100012,2026-01-06,IndianOil,fuel,2944.86,INR,CreditCard
+T100013,2026-01-07,Zomato,food,698.41,INR,UPI
+T100014,2026-01-07,Metro Card,transport,462.77,INR,UPI
+T100015,2026-01-07,Uber,transport,482.42,INR,CreditCard
+T100016,2026-01-07,Amazon,shopping,2577.15,INR,CreditCard
+T100017,2026-01-08,IndianOil,fuel,951.04,INR,DebitCard
+T100018,2026-01-09,Myntra,shopping,522.17,INR,UPI
+T100019,2026-01-09,IndianOil,fuel,1078.69,INR,DebitCard
+T100020,2026-01-10,Metro Card,transport,433.84,INR,UPI
+T100021,2026-01-10,Metro Card,transport,346.98,INR,UPI
+T100022,2026-01-10,Local Pharmacy,health,221.4,INR,DebitCard
+T100023,2026-01-11,Metro Card,transport,118.12,INR,UPI
+T100024,2026-01-11,IndianOil,fuel,1219.08,INR,UPI
+T100025,2026-01-12,IndianOil,fuel,2935.74,INR,DebitCard
+T100026,2026-01-12,Local Pharmacy,health,540.16,INR,UPI
+T100027,2026-01-12,BigBasket,groceries,727.44,INR,CreditCard
+T100028,2026-01-13,Zomato,food,305.98,INR,CreditCard
+T100029,2026-01-13,Amazon,shopping,445.66,INR,CreditCard
+T100030,2026-01-13,Swiggy,food,302.52,INR,DebitCard
+T100031,2026-01-14,Spotify,entertainment,119.0,INR,UPI
+T100032,2026-01-14,Metro Card,transport,499.96,INR,DebitCard
+T100033,2026-01-16,Canva Pro (US),productivity,3189.36,USD,CreditCard
+T100034,2026-01-16,Zomato,food,249.42,INR,DebitCard
+T100035,2026-01-16,Metro Card,transport,399.19,INR,UPI
+T100036,2026-01-16,Zomato,food,434.04,INR,DebitCard
+T100037,2026-01-17,Uber,transport,325.52,INR,DebitCard
+T100038,2026-01-18,Myntra,shopping,981.69,INR,UPI
+T100039,2026-01-18,Jio Recharge,telecom,299.0,INR,UPI
+T100040,2026-01-18,Hotstar,entertainment,299.0,INR,CreditCard
+T100041,2026-01-18,Uber,transport,591.08,INR,UPI
+T100042,2026-01-19,Local Pharmacy,health,849.87,INR,DebitCard
+T100043,2026-01-20,Local Pharmacy,health,237.65,INR,UPI
+T100044,2026-01-20,Local Pharmacy,health,879.17,INR,UPI
+T100045,2026-01-20,IndianOil,fuel,2111.67,INR,UPI
+T100046,2026-01-20,Swiggy,food,328.89,INR,UPI
+T100047,2026-01-21,Local Pharmacy,health,749.8,INR,CreditCard
+T100048,2026-01-21,Quillbot Premium,productivity,1958.98,USD,CreditCard
+T100049,2026-01-21,IndianOil,fuel,2638.29,INR,UPI
+T100050,2026-01-21,Amazon,shopping,3559.03,INR,UPI
+T100051,2026-01-22,IndianOil,fuel,2407.79,INR,DebitCard
+T100052,2026-01-23,CultFit Gym,fitness,1300.0,INR,UPI
+T100053,2026-01-23,Amazon,shopping,2704.76,INR,UPI
+T100054,2026-01-23,Local Pharmacy,health,432.26,INR,DebitCard
+T100055,2026-01-24,Zomato,food,768.78,INR,UPI
+T100056,2026-01-24,Swiggy,food,783.12,INR,DebitCard
+T100057,2026-01-24,Zomato,food,416.34,INR,DebitCard
+T100058,2026-01-24,Local Pharmacy,health,822.3,INR,UPI
+T100059,2026-01-25,Uber,transport,122.04,INR,CreditCard
+T100060,2026-01-25,Myntra,shopping,3452.81,INR,DebitCard
+T100061,2026-01-26,Amazon,shopping,5888.43,INR,DebitCard
+T100062,2026-01-26,Metro Card,transport,120.24,INR,UPI
+T100063,2026-01-27,Metro Card,transport,384.56,INR,UPI
+T100064,2026-01-27,Uber,transport,153.72,INR,UPI
+T100065,2026-01-28,BigBasket,groceries,1413.31,INR,DebitCard
+T100066,2026-01-29,Zomato,food,772.62,INR,CreditCard
+T100067,2026-01-29,Amazon,shopping,1866.98,INR,UPI
+T100068,2026-01-29,Myntra,shopping,1561.31,INR,CreditCard
+T100069,2026-01-30,BigBasket,groceries,1960.22,INR,DebitCard
+T100070,2026-01-30,Myntra,shopping,973.09,INR,UPI
+T100071,2026-01-30,Uber,transport,76.58,INR,UPI
+T100072,2026-01-31,Myntra,shopping,4260.54,INR,UPI
+T100073,2026-01-31,Local Pharmacy,health,805.43,INR,UPI
+T100074,2026-01-31,Amazon,shopping,4495.85,INR,UPI
+T100075,2026-02-01,Netflix,entertainment,649.0,INR,UPI
+T100076,2026-02-01,IndianOil,fuel,1933.69,INR,CreditCard
+T100077,2026-02-01,Uber,transport,146.87,INR,UPI
+T100078,2026-02-01,Metro Card,transport,281.91,INR,DebitCard
+T100079,2026-02-01,Local Pharmacy,health,112.33,INR,UPI
+T100080,2026-02-02,BigBasket,groceries,381.11,INR,DebitCard
+T100081,2026-02-02,Zomato,food,880.56,INR,CreditCard
+T100082,2026-02-02,Myntra,shopping,571.5,INR,DebitCard
+T100083,2026-02-03,Metro Card,transport,344.78,INR,UPI
+T100084,2026-02-03,Myntra,shopping,3518.73,INR,UPI
+T100085,2026-02-03,BigBasket,groceries,278.98,INR,UPI
+T100086,2026-02-03,Metro Card,transport,471.07,INR,CreditCard
+T100087,2026-02-04,Myntra,shopping,4018.07,INR,DebitCard
+T100088,2026-02-04,Metro Card,transport,255.46,INR,DebitCard
+T100089,2026-02-04,Local Pharmacy,health,977.59,INR,DebitCard
+T100090,2026-02-04,Amazon,shopping,409.36,INR,DebitCard
+T100091,2026-02-05,Uber,transport,531.34,INR,UPI
+T100092,2026-02-05,Uber,transport,386.1,INR,UPI
+T100093,2026-02-06,BigBasket,groceries,1904.91,INR,CreditCard
+T100094,2026-02-08,Swiggy,food,281.13,INR,UPI
+T100095,2026-02-08,Myntra,shopping,2093.14,INR,UPI
+T100096,2026-02-08,Swiggy,food,710.25,INR,DebitCard
+T100097,2026-02-08,Amazon,shopping,2722.61,INR,CreditCard
+T100098,2026-02-09,Amazon,shopping,4167.9,INR,CreditCard
+T100099,2026-02-09,BigBasket,groceries,556.95,INR,UPI
+T100100,2026-02-09,Myntra,shopping,1065.21,INR,UPI
+T100101,2026-02-10,IndianOil,fuel,2468.44,INR,UPI
+T100102,2026-02-11,Spotify,entertainment,119.0,INR,UPI
+T100103,2026-02-11,IndianOil,fuel,2353.08,INR,CreditCard
+T100104,2026-02-12,Metro Card,transport,206.02,INR,CreditCard
+T100105,2026-02-12,Local Pharmacy,health,857.28,INR,UPI
+T100106,2026-02-12,BigBasket,groceries,989.0,INR,CreditCard
+T100107,2026-02-13,Canva Pro (US),productivity,3043.83,USD,CreditCard
+T100108,2026-02-13,Amazon,shopping,4837.73,INR,CreditCard
+T100109,2026-02-14,Swiggy,food,168.44,INR,CreditCard
+T100110,2026-02-14,Myntra,shopping,929.66,INR,UPI
+T100111,2026-02-14,Local Pharmacy,health,1086.52,INR,CreditCard
+T100112,2026-02-14,Myntra,shopping,1223.26,INR,DebitCard
+T100113,2026-02-16,Hotstar,entertainment,299.0,INR,CreditCard
+T100114,2026-02-16,IndianOil,fuel,2877.92,INR,DebitCard
+T100115,2026-02-17,Jio Recharge,telecom,299.0,INR,UPI
+T100116,2026-02-18,Quillbot Premium,productivity,1961.4,USD,CreditCard
+T100117,2026-02-18,Swiggy,food,329.56,INR,UPI
+T100118,2026-02-18,Zomato,food,134.77,INR,DebitCard
+T100119,2026-02-18,Amazon,shopping,4614.26,INR,CreditCard
+T100120,2026-02-19,Metro Card,transport,245.01,INR,DebitCard
+T100121,2026-02-19,Local Pharmacy,health,333.73,INR,UPI
+T100122,2026-02-20,Swiggy,food,555.82,INR,CreditCard
+T100123,2026-02-20,IndianOil,fuel,2087.64,INR,DebitCard
+T100124,2026-02-21,Uber,transport,582.62,INR,CreditCard
+T100125,2026-02-22,CultFit Gym,fitness,1300.0,INR,UPI
+T100126,2026-02-22,IndianOil,fuel,2174.31,INR,DebitCard
+T100127,2026-02-24,IndianOil,fuel,2418.37,INR,DebitCard
+T100128,2026-02-24,Local Pharmacy,health,306.32,INR,DebitCard
+T100129,2026-02-25,Uber,transport,532.71,INR,DebitCard
+T100130,2026-02-26,IndianOil,fuel,1511.0,INR,UPI
+T100131,2026-02-26,Myntra,shopping,1121.14,INR,CreditCard
+T100132,2026-02-26,Local Pharmacy,health,385.69,INR,CreditCard
+T100133,2026-02-27,Amazon,shopping,314.9,INR,UPI
+T100134,2026-02-27,Uber,transport,100.98,INR,UPI
+T100135,2026-02-27,Zomato,food,893.96,INR,UPI
+T100136,2026-02-27,IndianOil,fuel,2516.41,INR,UPI
+T100137,2026-02-27,Local Pharmacy,health,1028.95,INR,DebitCard
+T100138,2026-02-28,IndianOil,fuel,2366.92,INR,CreditCard
+T100139,2026-02-28,Metro Card,transport,335.38,INR,UPI
+T100140,2026-02-28,Netflix,entertainment,649.0,INR,UPI
+T100141,2026-03-01,IndianOil,fuel,801.64,INR,UPI
+T100142,2026-03-01,Myntra,shopping,3909.65,INR,CreditCard
+T100143,2026-03-02,Swiggy,food,694.88,INR,UPI
+T100144,2026-03-03,Amazon,shopping,2878.86,INR,DebitCard
+T100145,2026-03-03,Swiggy,food,238.62,INR,UPI
+T100146,2026-03-03,Zomato,food,681.66,INR,CreditCard
+T100147,2026-03-03,Swiggy,food,203.4,INR,UPI
+T100148,2026-03-03,IndianOil,fuel,644.81,INR,UPI
+T100149,2026-03-05,Zomato,food,212.39,INR,CreditCard
+T100150,2026-03-05,Local Pharmacy,health,237.78,INR,UPI
+T100151,2026-03-05,Zomato,food,269.44,INR,CreditCard
+T100152,2026-03-05,BigBasket,groceries,638.75,INR,UPI
+T100153,2026-03-06,Metro Card,transport,419.41,INR,UPI
+T100154,2026-03-06,IndianOil,fuel,2309.33,INR,UPI
+T100155,2026-03-06,BigBasket,groceries,2085.07,INR,CreditCard
+T100156,2026-03-06,Amazon,shopping,4521.8,INR,DebitCard
+T100157,2026-03-07,BigBasket,groceries,670.53,INR,UPI
+T100158,2026-03-08,Local Pharmacy,health,921.99,INR,DebitCard
+T100159,2026-03-09,Uber,transport,313.3,INR,DebitCard
+T100160,2026-03-09,Swiggy,food,213.33,INR,DebitCard
+T100161,2026-03-09,Local Pharmacy,health,1163.12,INR,UPI
+T100162,2026-03-10,Myntra,shopping,671.37,INR,DebitCard
+T100163,2026-03-11,Zomato,food,465.63,INR,CreditCard
+T100164,2026-03-11,Myntra,shopping,2451.94,INR,CreditCard
+T100165,2026-03-11,Amazon,shopping,878.18,INR,DebitCard
+T100166,2026-03-12,Swiggy,food,571.99,INR,DebitCard
+T100167,2026-03-12,Zomato,food,722.69,INR,CreditCard
+T100168,2026-03-12,Myntra,shopping,3021.82,INR,UPI
+T100169,2026-03-13,Spotify,entertainment,119.0,INR,UPI
+T100170,2026-03-13,Amazon,shopping,1059.56,INR,DebitCard
+T100171,2026-03-13,Amazon,shopping,5206.46,INR,DebitCard
+T100172,2026-03-13,Myntra,shopping,2258.98,INR,DebitCard
+T100173,2026-03-13,Myntra,shopping,534.14,INR,DebitCard
+T100174,2026-03-13,Amazon,shopping,5299.87,INR,DebitCard
+T100175,2026-03-14,Amazon,shopping,1072.82,INR,DebitCard
+T100176,2026-03-14,Zomato,food,522.05,INR,DebitCard
+T100177,2026-03-15,Local Pharmacy,health,681.09,INR,UPI
+T100178,2026-03-15,BigBasket,groceries,1420.8,INR,DebitCard
+T100179,2026-03-16,Canva Pro (US),productivity,3083.92,USD,CreditCard
+T100180,2026-03-16,Myntra,shopping,872.21,INR,UPI
+T100181,2026-03-16,Swiggy,food,427.64,INR,DebitCard
+T100182,2026-03-17,BigBasket,groceries,643.1,INR,UPI
+T100183,2026-03-17,Uber,transport,205.59,INR,UPI
+T100184,2026-03-18,Local Pharmacy,health,1043.39,INR,CreditCard
+T100185,2026-03-19,Jio Recharge,telecom,299.0,INR,UPI
+T100186,2026-03-20,Amazon,shopping,4950.14,INR,UPI
+T100187,2026-03-20,Hotstar,entertainment,299.0,INR,CreditCard
+T100188,2026-03-21,Zomato,food,430.56,INR,CreditCard
+T100189,2026-03-21,Amazon,shopping,5811.02,INR,CreditCard
+T100190,2026-03-21,Swiggy,food,189.99,INR,UPI
+T100191,2026-03-21,CultFit Gym,fitness,1300.0,INR,UPI
+T100192,2026-03-21,Swiggy,food,517.62,INR,CreditCard
+T100193,2026-03-21,Metro Card,transport,366.76,INR,DebitCard
+T100194,2026-03-22,BigBasket,groceries,2070.07,INR,CreditCard
+T100195,2026-03-22,Quillbot Premium,productivity,1938.71,USD,CreditCard
+T100196,2026-03-22,Local Pharmacy,health,1120.5,INR,UPI
+T100197,2026-03-23,BigBasket,groceries,1702.18,INR,CreditCard
+T100198,2026-03-23,Swiggy,food,585.33,INR,CreditCard
+T100199,2026-03-24,Local Pharmacy,health,1053.95,INR,UPI
+T100200,2026-03-24,IndianOil,fuel,2629.28,INR,UPI
+T100201,2026-03-24,Grammarly,productivity,1000.0,INR,CreditCard
+T100202,2026-03-24,Swiggy,food,801.71,INR,UPI
+T100203,2026-03-24,Zomato,food,594.47,INR,UPI
+T100204,2026-03-25,Metro Card,transport,499.25,INR,CreditCard
+T100205,2026-03-25,Metro Card,transport,466.1,INR,UPI
+T100206,2026-03-25,BigBasket,groceries,1802.48,INR,DebitCard
+T100207,2026-03-25,IndianOil,fuel,799.96,INR,CreditCard
+T100208,2026-03-25,Zomato,food,635.52,INR,DebitCard
+T100209,2026-03-26,Zomato,food,193.71,INR,CreditCard
+T100210,2026-03-27,IndianOil,fuel,1299.27,INR,UPI
+T100211,2026-03-27,Uber,transport,558.64,INR,UPI
+T100212,2026-03-28,Myntra,shopping,517.67,INR,DebitCard
+T100213,2026-03-28,Myntra,shopping,4392.27,INR,CreditCard
+T100214,2026-03-29,Uber,transport,448.26,INR,DebitCard
+T100215,2026-03-30,Zomato,food,308.08,INR,UPI
+T100216,2026-03-30,BigBasket,groceries,1288.85,INR,DebitCard
+T100217,2026-03-30,Local Pharmacy,health,1186.17,INR,DebitCard
+T100218,2026-03-31,Swiggy,food,761.84,INR,UPI
+T100219,2026-03-31,Amazon,shopping,185.72,INR,UPI
+T100220,2026-03-31,Amazon,shopping,4405.17,INR,UPI
+T100221,2026-03-31,Local Pharmacy,health,580.79,INR,DebitCard
+T100222,2026-04-01,BigBasket,groceries,1239.31,INR,DebitCard
+T100223,2026-04-01,Zomato,food,728.49,INR,CreditCard
+T100224,2026-04-02,IndianOil,fuel,2655.35,INR,UPI
+T100225,2026-04-02,Netflix,entertainment,649.0,INR,UPI
+T100226,2026-04-03,Metro Card,transport,349.05,INR,CreditCard
+T100227,2026-04-03,Metro Card,transport,127.07,INR,UPI
+T100228,2026-04-04,Myntra,shopping,585.49,INR,UPI
+T100229,2026-04-04,Metro Card,transport,259.21,INR,DebitCard
+T100230,2026-04-05,Uber,transport,494.12,INR,CreditCard
+T100231,2026-04-05,Metro Card,transport,145.95,INR,DebitCard
+T100232,2026-04-05,Swiggy,food,372.9,INR,DebitCard
+T100233,2026-04-05,Local Pharmacy,health,1115.23,INR,DebitCard
+T100234,2026-04-06,Swiggy,food,674.26,INR,UPI
+T100235,2026-04-06,Amazon,shopping,2669.52,INR,UPI
+T100236,2026-04-06,Metro Card,transport,194.31,INR,UPI
+T100237,2026-04-07,Metro Card,transport,225.5,INR,UPI
+T100238,2026-04-08,Uber,transport,426.03,INR,DebitCard
+T100239,2026-04-08,Notion AI,productivity,800.0,INR,CreditCard
+T100240,2026-04-09,Metro Card,transport,285.08,INR,UPI
+T100241,2026-04-09,Zomato,food,513.32,INR,DebitCard
+T100242,2026-04-09,Amazon,shopping,5704.38,INR,UPI
+T100243,2026-04-09,Uber,transport,606.13,INR,UPI
+T100244,2026-04-09,IndianOil,fuel,2660.41,INR,CreditCard
+T100245,2026-04-10,BigBasket,groceries,905.45,INR,CreditCard
+T100246,2026-04-10,Myntra,shopping,4109.84,INR,UPI
+T100247,2026-04-12,BigBasket,groceries,787.97,INR,UPI
+T100248,2026-04-12,Zomato,food,792.18,INR,UPI
+T100249,2026-04-13,IndianOil,fuel,2987.87,INR,DebitCard
+T100250,2026-04-13,Spotify,entertainment,119.0,INR,UPI
+T100251,2026-04-13,Local Pharmacy,health,545.91,INR,UPI
+T100252,2026-04-15,Hotstar,entertainment,299.0,INR,CreditCard
+T100253,2026-04-15,Jio Recharge,telecom,299.0,INR,UPI
+T100254,2026-04-16,Metro Card,transport,407.67,INR,UPI
+T100255,2026-04-16,Canva Pro (US),productivity,3193.29,USD,CreditCard
+T100256,2026-04-16,Metro Card,transport,326.37,INR,UPI
+T100257,2026-04-16,Amazon,shopping,4207.99,INR,DebitCard
+T100258,2026-04-16,Zomato,food,395.81,INR,CreditCard
+T100259,2026-04-18,Metro Card,transport,188.18,INR,DebitCard
+T100260,2026-04-18,Uber,transport,485.55,INR,CreditCard
+T100261,2026-04-18,Metro Card,transport,334.94,INR,UPI
+T100262,2026-04-19,Amazon,shopping,2554.95,INR,UPI
+T100263,2026-04-19,Swiggy,food,245.78,INR,CreditCard
+T100264,2026-04-19,Uber,transport,133.46,INR,UPI
+T100265,2026-04-20,Quillbot Premium,productivity,1885.99,USD,CreditCard
+T100266,2026-04-20,CultFit Gym,fitness,1300.0,INR,UPI
+T100267,2026-04-20,Amazon,shopping,1978.26,INR,DebitCard
+T100268,2026-04-21,Uber,transport,562.89,INR,DebitCard
+T100269,2026-04-21,Amazon,shopping,559.35,INR,DebitCard
+T100270,2026-04-22,Swiggy,food,240.34,INR,DebitCard
+T100271,2026-04-22,Uber,transport,436.88,INR,UPI
+T100272,2026-04-22,Amazon,shopping,3696.32,INR,UPI
+T100273,2026-04-23,Swiggy,food,417.56,INR,CreditCard
+T100274,2026-04-23,IndianOil,fuel,810.88,INR,DebitCard
+T100275,2026-04-24,Amazon,shopping,4614.04,INR,UPI
+T100276,2026-04-24,Uber,transport,344.61,INR,UPI
+T100277,2026-04-24,Local Pharmacy,health,575.22,INR,UPI
+T100278,2026-04-25,Local Pharmacy,health,968.08,INR,UPI
+T100279,2026-04-25,Local Pharmacy,health,769.19,INR,UPI
+T100280,2026-04-25,Swiggy,food,508.55,INR,DebitCard
+T100281,2026-04-25,Metro Card,transport,458.88,INR,CreditCard
+T100282,2026-04-26,Local Pharmacy,health,122.12,INR,DebitCard
+T100283,2026-04-26,Grammarly,productivity,1000.0,INR,CreditCard
+T100284,2026-04-26,BigBasket,groceries,451.83,INR,DebitCard
+T100285,2026-04-27,Uber,transport,412.81,INR,CreditCard
+T100286,2026-04-27,Uber,transport,269.18,INR,CreditCard
+T100287,2026-04-27,Zomato,food,443.26,INR,UPI
+T100288,2026-04-27,Myntra,shopping,1797.67,INR,DebitCard
+T100289,2026-04-27,IndianOil,fuel,682.43,INR,UPI
+T100290,2026-04-28,Metro Card,transport,486.67,INR,UPI
+T100291,2026-04-28,BigBasket,groceries,1461.26,INR,UPI
+T100292,2026-04-29,Metro Card,transport,265.3,INR,UPI
+T100293,2026-04-29,Swiggy,food,390.8,INR,UPI
+T100294,2026-04-29,Netflix,entertainment,649.0,INR,UPI
+T100295,2026-04-29,Uber,transport,468.26,INR,CreditCard
+T100296,2026-04-30,Metro Card,transport,299.5,INR,DebitCard
+T100297,2026-04-30,Metro Card,transport,266.31,INR,UPI
+T100298,2026-04-30,Uber,transport,507.66,INR,DebitCard
+T100299,2026-05-01,Zomato,food,391.41,INR,DebitCard
+T100300,2026-05-01,Zomato,food,729.59,INR,DebitCard
+T100301,2026-05-02,IndianOil,fuel,2539.37,INR,DebitCard
+T100302,2026-05-02,Metro Card,transport,417.49,INR,UPI
+T100303,2026-05-02,Metro Card,transport,201.33,INR,UPI
+T100304,2026-05-02,Zomato,food,469.65,INR,DebitCard
+T100305,2026-05-03,Local Pharmacy,health,573.33,INR,UPI
+T100306,2026-05-03,Myntra,shopping,424.17,INR,DebitCard
+T100307,2026-05-03,Amazon,shopping,2190.5,INR,DebitCard
+T100308,2026-05-04,IndianOil,fuel,1112.19,INR,CreditCard
+T100309,2026-05-05,Swiggy,food,266.97,INR,DebitCard
+T100310,2026-05-05,Metro Card,transport,350.7,INR,DebitCard
+T100311,2026-05-05,Myntra,shopping,2373.57,INR,CreditCard
+T100312,2026-05-06,Metro Card,transport,200.45,INR,UPI
+T100313,2026-05-06,Amazon,shopping,263.94,INR,DebitCard
+T100314,2026-05-07,Myntra,shopping,2038.58,INR,UPI
+T100315,2026-05-07,IndianOil,fuel,790.3,INR,UPI
+T100316,2026-05-08,Uber,transport,644.21,INR,UPI
+T100317,2026-05-09,Metro Card,transport,465.39,INR,UPI
+T100318,2026-05-09,Myntra,shopping,3577.39,INR,CreditCard
+T100319,2026-05-09,Myntra,shopping,4133.92,INR,UPI
+T100320,2026-05-10,Zomato,food,623.98,INR,UPI
+T100321,2026-05-10,Zomato,food,625.08,INR,UPI
+T100322,2026-05-10,Uber,transport,445.29,INR,UPI
+T100323,2026-05-11,Myntra,shopping,1883.5,INR,DebitCard
+T100324,2026-05-11,Amazon,shopping,1461.81,INR,UPI
+T100325,2026-05-11,BigBasket,groceries,406.22,INR,UPI
+T100326,2026-05-11,Notion AI,productivity,800.0,INR,CreditCard
+T100327,2026-05-12,Zomato,food,305.64,INR,CreditCard
+T100328,2026-05-13,Local Pharmacy,health,513.43,INR,UPI
+T100329,2026-05-13,Amazon,shopping,5385.32,INR,UPI
+T100330,2026-05-13,Zomato,food,239.35,INR,UPI
+T100331,2026-05-13,Local Pharmacy,health,809.69,INR,DebitCard
+T100332,2026-05-14,Jio Recharge,telecom,299.0,INR,UPI
+T100333,2026-05-14,Metro Card,transport,343.92,INR,DebitCard
+T100334,2026-05-15,Spotify,entertainment,119.0,INR,UPI
+T100335,2026-05-16,Local Pharmacy,health,361.58,INR,UPI
+T100336,2026-05-16,Metro Card,transport,237.5,INR,DebitCard
+T100337,2026-05-16,Canva Pro (US),productivity,3113.18,USD,CreditCard
+T100338,2026-05-16,Metro Card,transport,267.46,INR,UPI
+T100339,2026-05-17,Uber,transport,213.07,INR,CreditCard
+T100340,2026-05-18,Zomato,food,286.26,INR,DebitCard
+T100341,2026-05-18,Local Pharmacy,health,219.81,INR,CreditCard
+T100342,2026-05-19,Uber,transport,543.37,INR,UPI
+T100343,2026-05-19,Uber,transport,144.68,INR,CreditCard
+T100344,2026-05-19,Hotstar,entertainment,299.0,INR,CreditCard
+T100345,2026-05-20,Swiggy,food,327.39,INR,UPI
+T100346,2026-05-22,Amazon,shopping,4612.81,INR,CreditCard
+T100347,2026-05-22,CultFit Gym,fitness,1300.0,INR,UPI
+T100348,2026-05-22,Amazon,shopping,3497.82,INR,CreditCard
+T100349,2026-05-22,Zomato,food,348.68,INR,DebitCard
+T100350,2026-05-22,Quillbot Premium,productivity,1973.55,USD,CreditCard
+T100351,2026-05-23,IndianOil,fuel,1246.25,INR,DebitCard
+T100352,2026-05-23,Swiggy,food,154.39,INR,DebitCard
+T100353,2026-05-23,BigBasket,groceries,735.94,INR,UPI
+T100354,2026-05-24,IndianOil,fuel,1441.7,INR,DebitCard
+T100355,2026-05-24,Metro Card,transport,433.34,INR,DebitCard
+T100356,2026-05-25,Grammarly,productivity,1000.0,INR,CreditCard
+T100357,2026-05-26,IndianOil,fuel,2052.57,INR,UPI
+T100358,2026-05-27,Uber,transport,326.6,INR,UPI
+T100359,2026-05-28,IndianOil,fuel,2193.37,INR,CreditCard
+T100360,2026-05-28,Zomato,food,515.78,INR,UPI
+T100361,2026-05-28,Netflix,entertainment,649.0,INR,UPI
+T100362,2026-05-28,Zomato,food,610.97,INR,UPI
+T100363,2026-05-28,IndianOil,fuel,600.58,INR,UPI
+T100364,2026-05-28,Amazon,shopping,2661.31,INR,CreditCard
+T100365,2026-05-29,Swiggy,food,822.28,INR,DebitCard
+T100366,2026-05-30,BigBasket,groceries,1179.74,INR,UPI
+T100367,2026-05-30,BigBasket,groceries,1186.88,INR,CreditCard
+T100368,2026-05-30,Swiggy,food,432.55,INR,CreditCard
+T100369,2026-06-01,IndianOil,fuel,1340.93,INR,CreditCard
+T100370,2026-06-01,Metro Card,transport,143.62,INR,UPI
+T100371,2026-06-02,Myntra,shopping,660.46,INR,CreditCard
+T100372,2026-06-02,Metro Card,transport,213.2,INR,UPI
+T100373,2026-06-02,Zomato,food,173.01,INR,UPI
+T100374,2026-06-02,Swiggy,food,634.54,INR,UPI
+T100375,2026-06-02,Myntra,shopping,2575.28,INR,CreditCard
+T100376,2026-06-03,Myntra,shopping,624.61,INR,UPI
+T100377,2026-06-04,Local Pharmacy,health,883.78,INR,UPI
+T100378,2026-06-04,Amazon,shopping,2932.43,INR,UPI
+T100379,2026-06-04,Amazon,shopping,1614.65,INR,UPI
+T100380,2026-06-04,Swiggy,food,223.12,INR,UPI
+T100381,2026-06-04,Metro Card,transport,272.08,INR,UPI
+T100382,2026-06-04,IndianOil,fuel,1026.57,INR,DebitCard
+T100383,2026-06-04,Amazon,shopping,1697.45,INR,UPI
+T100384,2026-06-05,Uber,transport,573.24,INR,UPI
+T100385,2026-06-05,Zomato,food,615.28,INR,UPI
+T100386,2026-06-05,Swiggy,food,770.92,INR,UPI
+T100387,2026-06-05,Swiggy,food,559.36,INR,UPI
+T100388,2026-06-05,Local Pharmacy,health,575.09,INR,DebitCard
+T100389,2026-06-06,Amazon,shopping,2013.4,INR,CreditCard
+T100390,2026-06-06,Notion AI,productivity,800.0,INR,CreditCard
+T100391,2026-06-06,Uber,transport,242.77,INR,CreditCard
+T100392,2026-06-06,Local Pharmacy,health,399.12,INR,CreditCard
+T100393,2026-06-06,Local Pharmacy,health,992.81,INR,CreditCard
+T100394,2026-06-06,IndianOil,fuel,1710.45,INR,UPI
+T100395,2026-06-07,Swiggy,food,531.14,INR,CreditCard
+T100396,2026-06-08,BigBasket,groceries,409.87,INR,DebitCard
+T100397,2026-06-08,Uber,transport,220.4,INR,UPI
+T100398,2026-06-09,Jio Recharge,telecom,299.0,INR,UPI
+T100399,2026-06-09,Amazon,shopping,4202.32,INR,UPI
+T100400,2026-06-10,Swiggy,food,334.09,INR,UPI
+T100401,2026-06-10,Uber,transport,195.06,INR,UPI
+T100402,2026-06-10,Amazon,shopping,4354.5,INR,CreditCard
+T100403,2026-06-11,Local Pharmacy,health,284.15,INR,UPI
+T100404,2026-06-11,Local Pharmacy,health,419.16,INR,DebitCard
+T100405,2026-06-12,Amazon,shopping,5365.71,INR,CreditCard
+T100406,2026-06-12,Metro Card,transport,145.61,INR,UPI
+T100407,2026-06-12,Spotify,entertainment,119.0,INR,UPI
+T100408,2026-06-12,Zomato,food,450.39,INR,DebitCard
+T100409,2026-06-12,Zomato,food,762.61,INR,DebitCard
+T100410,2026-06-13,Swiggy,food,752.66,INR,CreditCard
+T100411,2026-06-13,Metro Card,transport,335.11,INR,UPI
+T100412,2026-06-14,Local Pharmacy,health,1159.71,INR,UPI
+T100413,2026-06-14,BigBasket,groceries,1187.15,INR,DebitCard
+T100414,2026-06-14,Amazon,shopping,3130.02,INR,DebitCard
+T100415,2026-06-14,BigBasket,groceries,1753.49,INR,DebitCard
+T100416,2026-06-14,Metro Card,transport,167.45,INR,UPI
+T100417,2026-06-14,Zomato,food,454.32,INR,CreditCard
+T100418,2026-06-16,Uber,transport,103.92,INR,UPI
+T100419,2026-06-17,Uber,transport,379.51,INR,CreditCard
+T100420,2026-06-17,Canva Pro (US),productivity,2990.07,USD,CreditCard
+T100421,2026-06-17,Myntra,shopping,805.99,INR,CreditCard
+T100422,2026-06-18,Hotstar,entertainment,299.0,INR,CreditCard
+T100423,2026-06-18,Swiggy,food,572.11,INR,DebitCard
+T100424,2026-06-19,CultFit Gym,fitness,1300.0,INR,UPI
+T100425,2026-06-19,Amazon,shopping,5110.89,INR,DebitCard
+T100426,2026-06-19,Myntra,shopping,3648.81,INR,UPI
+T100427,2026-06-19,IndianOil,fuel,1953.89,INR,CreditCard
+T100428,2026-06-20,Metro Card,transport,223.37,INR,UPI
+T100429,2026-06-20,IndianOil,fuel,523.49,INR,CreditCard
+T100430,2026-06-21,Swiggy,food,630.09,INR,UPI
+T100431,2026-06-21,Amazon,shopping,761.91,INR,UPI
+T100432,2026-06-21,Zomato,food,617.26,INR,DebitCard
+T100433,2026-06-22,Amazon,shopping,791.19,INR,CreditCard
+T100434,2026-06-22,Uber,transport,595.01,INR,UPI
+T100435,2026-06-22,Zomato,food,302.38,INR,UPI
+T100436,2026-06-22,Quillbot Premium,productivity,1906.47,USD,CreditCard
+T100437,2026-06-23,Swiggy,food,442.94,INR,DebitCard
+T100438,2026-06-23,IndianOil,fuel,1866.5,INR,UPI
+T100439,2026-06-23,Amazon,shopping,3647.63,INR,DebitCard
+T100440,2026-06-24,Zomato,food,810.13,INR,DebitCard
+T100441,2026-06-24,Local Pharmacy,health,659.44,INR,UPI
+T100442,2026-06-24,Local Pharmacy,health,1115.05,INR,DebitCard
+T100443,2026-06-24,Grammarly,productivity,1000.0,INR,CreditCard
+T100444,2026-06-25,Uber,transport,465.91,INR,DebitCard
+T100445,2026-06-26,Myntra,shopping,1425.4,INR,DebitCard
+T100446,2026-06-28,Myntra,shopping,4325.0,INR,CreditCard
+T100447,2026-06-28,Zomato,food,722.54,INR,UPI
+T100448,2026-06-28,Netflix,entertainment,649.0,INR,UPI
+T100449,2026-06-28,Myntra,shopping,1612.19,INR,UPI
+T100450,2026-06-29,Amazon,shopping,2804.41,INR,DebitCard
+T100451,2026-06-30,IndianOil,fuel,1018.19,INR,CreditCard
+T100452,2026-06-30,BigBasket,groceries,519.26,INR,UPI
+T100453,2026-06-30,Uber,transport,104.52,INR,UPI
+T100454,2026-07-01,Uber,transport,340.17,INR,CreditCard
+T100455,2026-07-01,Zomato,food,612.26,INR,UPI
+T100456,2026-07-01,BigBasket,groceries,1100.31,INR,UPI
+T100457,2026-07-01,Amazon,shopping,529.89,INR,DebitCard
+T100458,2026-07-02,Local Pharmacy,health,1098.86,INR,UPI
+T100459,2026-07-03,Local Pharmacy,health,406.88,INR,DebitCard
+T100460,2026-07-03,Myntra,shopping,1213.15,INR,UPI
+T100461,2026-07-03,Zomato,food,725.43,INR,CreditCard
+T100462,2026-07-04,IndianOil,fuel,1310.96,INR,UPI
+T100463,2026-07-04,Metro Card,transport,446.2,INR,CreditCard
+T100464,2026-07-05,Jio Recharge,telecom,299.0,INR,UPI
+T100465,2026-07-05,IndianOil,fuel,1246.39,INR,CreditCard
+T100466,2026-07-06,Zomato,food,451.11,INR,CreditCard
+T100467,2026-07-06,BigBasket,groceries,1777.29,INR,DebitCard
+T100468,2026-07-06,Metro Card,transport,343.55,INR,CreditCard
+T100469,2026-07-07,Zomato,food,499.07,INR,UPI
+T100470,2026-07-07,Amazon,shopping,5929.94,INR,DebitCard
+T100471,2026-07-08,Notion AI,productivity,800.0,INR,CreditCard
+T100472,2026-07-09,Swiggy,food,421.51,INR,UPI
+T100473,2026-07-10,Zomato,food,551.51,INR,DebitCard
+T100474,2026-07-11,Zomato,food,533.78,INR,CreditCard
+T100475,2026-07-11,Metro Card,transport,393.85,INR,UPI
+T100476,2026-07-11,IndianOil,fuel,2675.99,INR,UPI
+T100477,2026-07-12,IndianOil,fuel,1474.97,INR,CreditCard
+T100478,2026-07-12,Zomato,food,781.98,INR,UPI
+T100479,2026-07-12,IndianOil,fuel,2878.01,INR,CreditCard
+T100480,2026-07-13,Spotify,entertainment,119.0,INR,UPI
+T100481,2026-07-13,Uber,transport,387.9,INR,DebitCard
+T100482,2026-07-14,BigBasket,groceries,1821.35,INR,CreditCard
+T100483,2026-07-14,Local Pharmacy,health,137.81,INR,DebitCard
+T100484,2026-07-14,Zomato,food,614.32,INR,UPI
+T100485,2026-07-14,Metro Card,transport,196.13,INR,CreditCard
+T100486,2026-07-15,Hotstar,entertainment,299.0,INR,CreditCard
+T100487,2026-07-15,Metro Card,transport,171.46,INR,UPI
+T100488,2026-07-15,Canva Pro (US),productivity,3136.96,USD,CreditCard
+T100489,2026-07-16,Metro Card,transport,150.3,INR,CreditCard
+T100490,2026-07-16,Local Pharmacy,health,395.58,INR,CreditCard
+T100491,2026-07-16,Uber,transport,426.17,INR,UPI
+T100492,2026-07-17,Metro Card,transport,315.91,INR,UPI
+T100493,2026-07-17,Zomato,food,435.26,INR,UPI
+T100494,2026-07-17,Swiggy,food,574.68,INR,CreditCard
+T100495,2026-07-18,Metro Card,transport,293.4,INR,CreditCard
+T100496,2026-07-18,CultFit Gym,fitness,1300.0,INR,UPI
+T100497,2026-07-18,Uber,transport,394.45,INR,CreditCard
+T100498,2026-07-18,IndianOil,fuel,1150.72,INR,CreditCard
+T100499,2026-07-18,Zomato,food,344.72,INR,DebitCard
+T100500,2026-07-20,IndianOil,fuel,2462.82,INR,DebitCard
+T100501,2026-07-20,Amazon,shopping,5595.27,INR,UPI
+T100502,2026-07-20,Uber,transport,362.7,INR,CreditCard
+T100503,2026-07-21,Swiggy,food,776.39,INR,UPI
+T100504,2026-07-21,Quillbot Premium,productivity,1952.35,USD,CreditCard
+T100505,2026-07-21,IndianOil,fuel,1602.06,INR,DebitCard
+T100506,2026-07-21,Amazon,shopping,3120.27,INR,UPI
+T100507,2026-07-21,BigBasket,groceries,900.34,INR,UPI
+T100508,2026-07-22,Amazon,shopping,1004.39,INR,UPI
+T100509,2026-07-22,Grammarly,productivity,1000.0,INR,CreditCard
+T100510,2026-07-22,Zomato,food,427.77,INR,DebitCard
+T100511,2026-07-23,IndianOil,fuel,2746.92,INR,UPI
+T100512,2026-07-23,Amazon,shopping,5922.71,INR,DebitCard
+T100513,2026-07-25,Uber,transport,446.98,INR,DebitCard
+T100514,2026-07-25,Amazon,shopping,2921.4,INR,CreditCard
+T100515,2026-07-25,Metro Card,transport,399.96,INR,UPI
+T100516,2026-07-26,Uber,transport,334.63,INR,UPI
+T100517,2026-07-27,Netflix,entertainment,649.0,INR,UPI
+T100518,2026-07-27,Zomato,food,651.9,INR,DebitCard
+T100519,2026-07-28,Uber,transport,616.61,INR,DebitCard
+T100520,2026-07-28,Myntra,shopping,3518.05,INR,UPI
+T100521,2026-07-29,Myntra,shopping,1815.05,INR,UPI
+T100522,2026-07-29,Zomato,food,862.56,INR,UPI
+T100523,2026-07-30,Uber,transport,80.54,INR,DebitCard
+T100524,2026-07-30,Swiggy,food,613.74,INR,UPI
+T100525,2026-07-30,Myntra,shopping,3018.05,INR,DebitCard
+T100526,2026-07-30,Zomato,food,170.97,INR,CreditCard
+T100527,2026-07-30,Myntra,shopping,2409.83,INR,CreditCard
+T100528,2026-07-31,BigBasket,groceries,1934.37,INR,UPI
+T100529,2026-08-01,Swiggy,food,686.57,INR,CreditCard
+T100530,2026-08-02,Metro Card,transport,100.16,INR,DebitCard
+T100531,2026-08-02,IndianOil,fuel,704.77,INR,UPI
+T100532,2026-08-02,Myntra,shopping,2378.25,INR,CreditCard
+T100533,2026-08-02,Local Pharmacy,health,1092.65,INR,DebitCard
+T100534,2026-08-03,Jio Recharge,telecom,299.0,INR,UPI
+T100535,2026-08-04,Swiggy,food,455.87,INR,UPI
+T100536,2026-08-04,IndianOil,fuel,2097.37,INR,UPI
+T100537,2026-08-04,Amazon,shopping,4644.63,INR,UPI
+T100538,2026-08-05,Myntra,shopping,3698.81,INR,DebitCard
+T100539,2026-08-05,Local Pharmacy,health,529.81,INR,UPI
+T100540,2026-08-06,Notion AI,productivity,800.0,INR,CreditCard
+T100541,2026-08-06,IndianOil,fuel,893.76,INR,UPI
+T100542,2026-08-07,Amazon,shopping,4094.99,INR,CreditCard
+T100543,2026-08-08,IndianOil,fuel,2960.07,INR,UPI
+T100544,2026-08-09,BigBasket,groceries,463.82,INR,UPI
+T100545,2026-08-10,Spotify,entertainment,119.0,INR,UPI
+T100546,2026-08-10,Uber,transport,637.48,INR,DebitCard
+T100547,2026-08-11,Myntra,shopping,3084.6,INR,UPI
+T100548,2026-08-11,Myntra,shopping,1672.13,INR,DebitCard
+T100549,2026-08-12,Myntra,shopping,2327.55,INR,CreditCard
+T100550,2026-08-12,Canva Pro (US),productivity,3131.57,USD,CreditCard
+T100551,2026-08-12,Zomato,food,129.57,INR,DebitCard
+T100552,2026-08-12,Uber,transport,650.89,INR,CreditCard
+T100553,2026-08-12,Myntra,shopping,558.77,INR,CreditCard
+T100554,2026-08-12,Zomato,food,779.13,INR,UPI
+T100555,2026-08-13,Zomato,food,224.75,INR,UPI
+T100556,2026-08-13,Amazon,shopping,4632.9,INR,UPI
+T100557,2026-08-14,IndianOil,fuel,1627.01,INR,CreditCard
+T100558,2026-08-14,Swiggy,food,415.1,INR,UPI
+T100559,2026-08-15,Hotstar,entertainment,299.0,INR,CreditCard
+T100560,2026-08-16,Local Pharmacy,health,335.91,INR,DebitCard
+T100561,2026-08-16,Local Pharmacy,health,782.42,INR,DebitCard
+T100562,2026-08-16,Myntra,shopping,2040.09,INR,CreditCard
+T100563,2026-08-17,BigBasket,groceries,1714.38,INR,UPI
+T100564,2026-08-18,Myntra,shopping,2792.48,INR,DebitCard
+T100565,2026-08-18,Quillbot Premium,productivity,1994.34,USD,CreditCard
+T100566,2026-08-19,CultFit Gym,fitness,1300.0,INR,UPI
+T100567,2026-08-19,BigBasket,groceries,947.73,INR,UPI
+T100568,2026-08-19,Metro Card,transport,491.14,INR,DebitCard
+T100569,2026-08-19,Myntra,shopping,2764.01,INR,DebitCard
+T100570,2026-08-19,Local Pharmacy,health,659.68,INR,UPI
+T100571,2026-08-20,Zomato,food,144.5,INR,DebitCard
+T100572,2026-08-20,Local Pharmacy,health,654.96,INR,CreditCard
+T100573,2026-08-20,Zomato,food,609.42,INR,UPI
+T100574,2026-08-21,Local Pharmacy,health,986.99,INR,UPI
+T100575,2026-08-21,Swiggy,food,306.57,INR,UPI
+T100576,2026-08-22,Metro Card,transport,282.77,INR,UPI
+T100577,2026-08-22,Local Pharmacy,health,677.1,INR,DebitCard
+T100578,2026-08-22,IndianOil,fuel,2561.72,INR,CreditCard
+T100579,2026-08-22,Zomato,food,293.19,INR,CreditCard
+T100580,2026-08-23,Amazon,shopping,1804.93,INR,CreditCard
+T100581,2026-08-23,IndianOil,fuel,2574.4,INR,UPI
+T100582,2026-08-24,Grammarly,productivity,1000.0,INR,CreditCard
+T100583,2026-08-24,Uber,transport,443.6,INR,UPI
+T100584,2026-08-25,Amazon,shopping,2737.9,INR,DebitCard
+T100585,2026-08-25,Swiggy,food,798.11,INR,UPI

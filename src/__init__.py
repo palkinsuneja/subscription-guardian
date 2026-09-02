@@ -1,0 +1,1 @@
+"""Subscription Guardian — detection package."""

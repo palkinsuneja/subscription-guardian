@@ -1,0 +1,19 @@
+merchant,is_subscription,is_hidden,reason
+Netflix,True,False,known / user-aware
+Spotify,True,False,known / user-aware
+CultFit Gym,True,False,known / user-aware
+Jio Recharge,True,False,known / user-aware
+Quillbot Premium,True,True,"foreign card autopay, no consent screen"
+Canva Pro (US),True,True,"foreign recurring, billed in USD"
+Notion AI,True,True,free trial silently turned paid
+Grammarly,True,True,trial converted to paid subscription
+Hotstar,True,True,"forgotten, unused for months"
+BigBasket,False,False,one-off spend
+Zomato,False,False,one-off spend
+Swiggy,False,False,one-off spend
+Uber,False,False,one-off spend
+IndianOil,False,False,one-off spend
+Amazon,False,False,one-off spend
+Myntra,False,False,one-off spend
+Local Pharmacy,False,False,one-off spend
+Metro Card,False,False,one-off spend
