@@ -23,11 +23,11 @@ Guardian fills.
 
 ## What it does
 
-1. **Detects recurring charges** — finds charges that repeat with a subscription-like fingerprint (near-constant amount + regular interval), while ignoring irregular one-off spends like groceries.
-2. **Separates hidden from known** — flags the subscriptions likely *off your radar* (foreign, trial-converted, forgotten, credit-card autopay).
-3. **Warns before the charge hits** — surfaces charges due in the next few days.
-4. **Risk-scores every merchant** — a 0–100 score with LOW / MEDIUM / HIGH bands.
-5. **Answers your questions** — an AI agent answers *"what are my hidden subscriptions?"*, *"how much am I losing per month?"* grounded in your data.
+1. **Detects recurring charges** - finds charges that repeat with a subscription-like fingerprint (near-constant amount + regular interval), while ignoring irregular one-off spends like groceries.
+2. **Separates hidden from known** - flags the subscriptions likely *off your radar* (foreign, trial-converted, forgotten, credit-card autopay).
+3. **Warns before the charge hits** - surfaces charges due in the next few days.
+4. **Risk-scores every merchant** - a 0–100 score with LOW / MEDIUM / HIGH bands.
+5. **Answers your questions** - an AI agent answers *"what are my hidden subscriptions?"*, *"how much am I losing per month?"* grounded in your data.
 
 ## How it works (architecture)
 
@@ -123,7 +123,7 @@ subscription-guardian/
 ## Scope — deliberately focused
 
 **Not** building fraud/QR detection, failed-payment recovery, or a full finance
-dashboard. One problem — hidden recurring charges — solved deeply.
+dashboard. One problem - hidden recurring charges - solved deeply.
 
 ## Next steps
 - Harden the dataset with trickier decoys (price hikes, annual plans, near-monthly rent) to stress-test detection.
